@@ -1,8 +1,8 @@
-// Sistema de cadastro de peças Savinis.   
-// Requisitos:
-// * Peça com peso superior à 100 gramas;
-// * Quantidade de peças inferior à 10;
-// * Se nome da peça tiver menos que três caracteres, informar mensagem de erro.
+/*Sistema de cadastro de peças Savinis.   
+Requisitos:
+* Peça com peso superior à 100 gramas;
+* Quantidade de peças inferior à 10;
+* Se nome da peça tiver menos que três caracteres, informar mensagem de erro.*/
 
 const listaDePecas = ['Selim','Aro','Quadro']
 
